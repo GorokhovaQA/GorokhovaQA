@@ -19,6 +19,11 @@
   <img src="https://img.shields.io/badge/Мое портфолио-orange?&style=for-the-badge"/>
 </div>
 
+  <div align="center" >
+  <img src="https://riamo.ru/files/image/20/52/13/-gallery!076e.jpg" width="400" height="200"/>
+  </div>
+   
+    
 ### 🛠️: Навыки и технологии :
 `Функциональное тестирование` `Тестирование API` `SQL` `Test case` 
 `Atlassian Confluence` `SoapUI` `JSON`  `Trello`
