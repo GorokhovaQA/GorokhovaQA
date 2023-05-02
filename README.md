@@ -10,6 +10,7 @@
 
 
 <div id="badges" align="center">
+  <a href="https://drive.google.com/file/d/1Boe-3-25ZOaKeDmnqXV6S2uXp5iADmF_/view?usp=sharing))">  
   <img src="https://img.shields.io/badge/Мое резюме-brightgreen?&style=for-the-badge&logo=:page_facing_up:"/>
   </div>
  
